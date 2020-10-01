@@ -47,3 +47,5 @@ methyl_capsules/data/final_capsules__GSEA_C5.MF.p filter=lfs diff=lfs merge=lfs 
 methyl_capsules/data/final_capsules__GSEA_H.p filter=lfs diff=lfs merge=lfs -text
 methyl_capsules/data/final_capsules__UCSC_CpG_Islands_Name.p filter=lfs diff=lfs merge=lfs -text
 methyl_capsules/data/* filter=lfs diff=lfs merge=lfs -text
+methyl_capsules/ filter=lfs diff=lfs merge=lfs -text
+methyl_capsules/data filter=lfs diff=lfs merge=lfs -text
